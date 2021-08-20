@@ -1,6 +1,6 @@
-Neovim Setup-
+#Neovim Setup-
 
-Put this file in ~/.config/nvim/ folder
+Put tinit.vim file in ~/.config/nvim/ folder
 
 Install vim-plug-
 
@@ -9,5 +9,4 @@ Install vim-plug-
   (make sure curl and git is installed)
   
 Open neovim and execute :PlugInstall
-
-Restart neovim/
+Restart neovim
