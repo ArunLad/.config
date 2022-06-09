@@ -1,12 +1,12 @@
 #Neovim Setup-
 
-Put tinit.vim file in ~/.config/nvim/ folder
+Put init.vim file in ~/.config/nvim/ folder
 
 Install vim-plug-
-
-  curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dir https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
   
   (make sure curl and git is installed)
   
+  curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dir https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+  
 Open neovim and execute :PlugInstall
-Restart neovim
+Restart Neovim
