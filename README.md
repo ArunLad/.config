@@ -12,7 +12,7 @@
   See [Neovim-Installation](https://github.com/neovim/neovim)
 
 ### 2. Copy init.vim file to 
-    ~/.config/nvim/ folder
+    ~/.config/nvim/
 
 ### 3. Install vim-plug
   (make sure curl and git is installed)
